@@ -1,2 +1,3 @@
 # nerd_day
-practicing GitHub
+Practicing GitHub
+Today we are going to 
